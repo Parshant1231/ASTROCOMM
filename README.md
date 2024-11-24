@@ -15,7 +15,7 @@
   - Synchronization of encrypted data transmissions.
 
 - **Solutions**:
-  - **Data Verifiers**: A 3-step encryption process to detect and resolve software glitches.
+  - **Data Verifiers**: A 3-step encryption process to detect and resolve software glitches.(3 step verifiers check the data from big datasets to resolve the s/w gliches)
   - Big Data Analysis: Utilizing extensive datasets to predict and mitigate errors.
 
 ---
